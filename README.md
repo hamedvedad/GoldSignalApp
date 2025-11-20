@@ -1,2 +1,7 @@
-# GoldSignalApp
-Android Gold Trading Signal App with Working Hours
+# Gold Signal App
+اندروید اپلیکیشن تحلیل طلای جهانی با قابلیت تنظیم ساعت کاری
+
+## ویژگی‌ها
+- تحلیل لحظه‌ای قیمت طلا
+- ارسال نوتیفیکیشن سیگنال
+- تنظیم ساعت کاری دلخواه
